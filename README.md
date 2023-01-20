@@ -9,9 +9,11 @@ pushed as the commit message with each problem solved.
 
 ## Problem Folder Contents
 
-- index.js
+- index.<extension>
   - Contains the solution to the problem.
 - notes.md
   - Contains notes on the thought process behind solving the problem.
 - README.md
   - Contains the prompt for the problem, examples, and constraints.
+
+### <https://leetcode.com/ethanfranks/>
