@@ -3,11 +3,11 @@
 ## Purpose
 
 This repository is intended to showcase consistency of practice, and improvement
-in development ability over time. Each programming language has it's own folder
-which is subdivided into folders for individual problems. Solution results are
+in development ability over time. Each language has it's own directory
+which is subdivided into directories for individual problems. Solution results are
 pushed as the commit message with each problem solved.
 
-## Problem Folder Contents
+## Problem Directory Contents
 
 - index.<extension>
   - Contains the solution to the problem.
